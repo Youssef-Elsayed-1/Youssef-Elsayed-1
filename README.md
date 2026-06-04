@@ -1,58 +1,78 @@
-# Hi 👋, I'm Youssef El Sayed
+<h1 align="center">👋 Hi, I'm Youssef El Sayed</h1>
 
-### Front-End Web Developer
+<h3 align="center">Front-End Web Developer from Egypt 🇪🇬</h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-I'm a passionate Front-End Developer from Egypt 🇪🇬
-
-* 🌱 Currently learning **Advanced JavaScript**
-* 💻 Building responsive and modern web applications
-* 🎨 Interested in UI/UX Design
-* 🚀 Always improving my coding skills
-* 📫 Reach me: [your-email@example.com](mailto:your-email@example.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+Responsive+Websites;Always+Learning+and+Growing" />
+</p>
 
 ---
 
-## 🚀 Technologies & Tools
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+* 💻 Front-End Web Developer
+* 🌱 Currently improving my JavaScript skills
+* 🎨 Passionate about creating modern and responsive websites
+* 🚀 Working toward becoming a professional web developer
+* 🇪🇬 Based in Egypt
 
 ---
 
-## 👨‍💻 About Me
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef-Elsayed-1&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Elsayed-1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Youssef-Elsayed-1&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📘 Facebook
+https://www.facebook.com/profile.php?id=61578909844648
+
+🐱 GitHub
+https://github.com/Youssef-Elsayed-1
+
+---
+
+## 💡 Developer Object
 
 ```javascript
 const youssef = {
+  name: "Youssef El Sayed",
   role: "Front-End Developer",
   skills: ["HTML", "CSS", "JavaScript"],
   tools: ["VS Code", "Git", "GitHub"],
-  currentlyLearning: "Advanced JavaScript",
+  learning: "Advanced JavaScript",
   goal: "Become a Professional Front-End Developer"
 };
 ```
 
 ---
 
-## 📊 GitHub Stats
+### ✨ Quote
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* Facebook: https://facebook.com/your-profile
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/YOUR_USERNAME
-
----
+> "First, solve the problem. Then, write the code."
 
 ⭐ Thanks for visiting my profile!
